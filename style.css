@@ -11,6 +11,20 @@ body{
         overflow-x: hidden;
     }
 
+@media screen and (max-width: 375px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+/* ----------- iPad mini ----------- */
+
+@media screen and (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
 .bg-dark{
     background-color: black!important;
 }
