@@ -47,14 +47,14 @@ body{
 
 .max-width{
     max-width: 1300px;
-    padding: 0 80px;
+    padding: 0 0px;
     margin: auto;
 }
 
 .home{
     display: flex;
     background-image: url("img/background.jpg");
-    height: 590px;
+    height: 480px;
     width: 100%;
     text-align: center;
     background-size: cover;
