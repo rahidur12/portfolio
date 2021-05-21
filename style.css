@@ -38,7 +38,7 @@ body{
 
 .home{
     display: flex;
-    background-image: url("img/background.jpg");
+    background-image: url("/img/background.jpg");
     height: 590px;
     width: 100%;
     text-align: center;
