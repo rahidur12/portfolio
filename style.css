@@ -8,22 +8,7 @@
 
 body{
         font-family: 'Open Sans', sans-serif;
-        overflow-x: hidden;
     }
-
-@media screen and (max-width: 375px) {
-    body {
-        overflow-x: hidden;
-    }
-}
-
-/* ----------- iPad mini ----------- */
-
-@media screen and (max-width: 768px) {
-    body {
-        overflow-x: hidden;
-    }
-}
 
 .bg-dark{
     background-color: black!important;
@@ -53,8 +38,8 @@ body{
 
 .home{
     display: flex;
-    background-image: url("img/background.jpg");
-    height: 480px;
+    background-image: url("/img/background.jpg");
+    height: 590px;
     width: 100%;
     text-align: center;
     background-size: cover;
@@ -261,8 +246,4 @@ body{
 .home-button:hover{
     color:red;
     box-shadow: 0 0 10px red;
-}
-
-.navbar-toggler-icon{
-    
 }
