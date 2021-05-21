@@ -170,6 +170,7 @@ body{
 }
 .service-text{
     color: white;
+    font-size: medium;
 }
 
 .image-fluid:hover{
